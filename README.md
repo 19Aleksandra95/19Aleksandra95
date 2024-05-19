@@ -1,4 +1,4 @@
-                                                                Hello Everyone! 👋
+**Hello Everyone!**
 
 _My name is Aleksandra, I managed to complete the FullStack Developer course. I had the opportunity to work in a group and do an individual project on the basics of HTML, CSS, JS. My adventure with programming is just beginning, but I want to develop my skills because I really like learning new things and improving in the current ones. I usually worked with React, HTML, CSS, JavaScript, Node.js. wants to improve their skills with React, React Native and Node.js and is still training in this field._
 
